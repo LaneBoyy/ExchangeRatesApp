@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Exchange Rates App</string>
+
+    <string name="common_currencies">Currencies</string>
+    <string name="common_favorites">Favorites</string>
+
+    <string name="error_no_internet_connection">No internet connection</string>
+    <string name="error_no_internet_connection_try_again">Try again</string>
+
+    <string name="favorite_empty_state">Your favorite currencies will be stored here</string>
+
+    <string name="filters_title">Filters</string>
+    <string name="filters_sort_by">Sort by</string>
+    <string name="filters_code_az">Code A-Z</string>
+    <string name="filters_code_za">Code Z-A</string>
+    <string name="filters_quote_asc">Quote Asc.</string>
+    <string name="filters_quote_desc">Quote Desc.</string>
+    <string name="filters_apply">Apply</string>
+</resources>
